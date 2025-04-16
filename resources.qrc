@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file>icons/light.png</file>
+        <file>icons/dark.png</file>
+    </qresource>
+</RCC> 

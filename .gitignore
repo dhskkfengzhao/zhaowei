@@ -1,0 +1,53 @@
+# Python 生成的文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+ENV/
+env/
+
+# IDE 相关文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 项目特定文件
+settings.json
+presets.json
+fonts/*
+!fonts/.gitkeep
+backgrounds/*
+!backgrounds/.gitkeep
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.docx
+*.txt
+!requirements.txt
+!README.md
+!LICENSE
+
+# 操作系统特定文件
+.DS_Store
+Thumbs.db 

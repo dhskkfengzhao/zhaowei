@@ -2,8 +2,7 @@
 
 一个将电子文本转换为逼真手写效果的应用程序，基于Python和Handright库开发。
 
-![手写模拟器预览![image](https://github.com/user-attachments/assets/46350d2e-d089-4136-ad2c-84c8a95e177e)
-
+![手写模拟器预览](https://user-images.githubusercontent.com/your_username/your_repository/raw/main/screenshot.png)
 
 ## 功能特色
 
@@ -38,17 +37,17 @@
 1. 克隆项目仓库
    ```bash
    git clone https://github.com/your_username/handwrite-simulator.git
-   cd 手写模拟器
+   cd handwrite-simulator
    ```
 
 2. 安装依赖
    ```bash
-   使用pip安装requirements.txt中的包：pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 3. 运行程序
    ```bash
-   python手写应用.py
+   python handwrite_app.py
    ```
 
 ### 可选：创建虚拟环境
@@ -142,4 +141,4 @@ pip install -r requirements.txt
 ---
 
 **作者：** 赵伟
-**联系方式：**
+**联系方式：** 851906121@qq.com 

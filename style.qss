@@ -1,0 +1,61 @@
+/* 现代化的样式表 */
+QMainWindow {
+    background-color: #f0f0f0;
+}
+
+QToolBar {
+    border: none;
+    background-color: #ffffff;
+    spacing: 5px;
+    padding: 5px;
+}
+
+QToolButton {
+    border: none;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: transparent;
+}
+
+QToolButton:hover {
+    background-color: #e0e0e0;
+}
+
+QDockWidget {
+    border: 1px solid #cccccc;
+    titlebar-close-icon: url(:/icons/close.png);
+}
+
+QGroupBox {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    margin-top: 1em;
+    padding-top: 10px;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    left: 10px;
+    padding: 0 3px 0 3px;
+}
+
+QTextEdit {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    background-color: #ffffff;
+}
+
+QComboBox {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 5px;
+    min-width: 6em;
+}
+
+QSpinBox {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+/* 深色主题样式将在代码中动态切换 */ 

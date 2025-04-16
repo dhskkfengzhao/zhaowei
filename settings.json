@@ -1,0 +1,20 @@
+{
+  "font": "Bo Le Locust Tree Handwriting Pen Chinese Font-Simplified Chinese Fonts",
+  "font_size": 40,
+  "margins": {
+    "上边距": 10,
+    "下边距": 3,
+    "左边距": 86,
+    "右边距": 93,
+    "字间距": 1,
+    "行间距": 60
+  },
+  "distortions": {
+    "字间距扰动": 1.7999999999999998,
+    "行间距扰动": 0.0,
+    "字体大小扰动": 2.0,
+    "横向偏移扰动": 1.9,
+    "纵向偏移扰动": 2.0,
+    "旋转角度扰动": 0.05
+  }
+}
